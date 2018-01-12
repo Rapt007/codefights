@@ -11,11 +11,11 @@
 * getting the sum after applying some conditions
 * getting the no of elements needed to make an array consecutive.
 ### Time at which I Pushed it to Github
-Fri, Jan 12, 2018  3:08:17 AM
+Fri, Jan 12, 2018  3:11:54 AM
 ### Number of files in the directory
 ---
 **created by** *AMAN BASSI*
 ### Number of files in the directory:
 7
 ### Link to my Github Page for the description
-[Github_Page](https://rapt007.github.io/codefights/codefights/EdgeOfTheOcean/)
+[Github_Page](https://rapt007.github.io/codefights/EdgeOfTheOcean/)
