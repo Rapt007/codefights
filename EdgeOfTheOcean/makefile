@@ -19,4 +19,4 @@ README.md:
 	echo "### Number of files in the directory:">>README.md
 	ls|wc -l>>README.md
 	echo "### Link to my Github Page for the description">> README.md
-	echo "[Github_Page](https://rapt007.github.io/codefights/codefights/EdgeOfTheOcean/)">>README.md
+	echo "[Github_Page](https://rapt007.github.io/codefights/EdgeOfTheOcean/)">>README.md
