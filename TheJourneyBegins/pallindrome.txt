@@ -1,0 +1,17 @@
+function checkPalindrome(inputString) {
+    if(inputString.length==1){return true;}
+    else{
+        var a= inputString.length;
+        var b= a/2;
+        if (inputString%2==0){
+            return inputString.substring(0,b)==(inputString.substring(b 
++1, a).split("").reverse().join(""))?true:false;
+        }
+        else{
+            return 
+inputString.substring(0,Math.floor(b))==(inputString.substring(Math.ceil(b),a).split("").reverse().join(""))?true:false;
+        }
+        
+    }
+}
+
